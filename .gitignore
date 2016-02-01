@@ -1,0 +1,12 @@
+# Seeded file created by .gitignore support plugin (hsz.mobi)
+
+.idea
+node_modules
+bower_components
+
+twoOps/npm-debug.log
+twoOps/results.txt
+twoOps/archive.tgz
+
+npm-debug.log
+

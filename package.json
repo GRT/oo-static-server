@@ -1,0 +1,27 @@
+{
+  "name": "oo-static-server",
+  "version": "0.0.1",
+  "description": "A mock OneOps API serving static JSON",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GRT/oo-static-server"
+  },
+  "author": "Oakley Hall <ohall@grtmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GRT/oo-static-server/issues"
+  },
+  "homepage": "https://github.com/GRT/oo-static-server",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "good": "^3.0.1",
+    "hapi": "^7.0.0",
+    "hapi-swagger": "^0.4.2",
+    "joi": "^4.7.0",
+    "underscore": "^1.7.0"
+  }
+}
