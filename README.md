@@ -1,10 +1,10 @@
 oo-static-server
 ======
 
-##### In the _oo-static-server_ directory, run the default Grunt task
+##### In the _oo-static-server_ directory, install dependencies and run server
  ```sh
  $ cd oo-static-server
- $ npm update
+ $ npm install
  $ npm run serve
  ```
 ##### Once _oo-static-server_ is running, you can view automatically generated API Docs at:
