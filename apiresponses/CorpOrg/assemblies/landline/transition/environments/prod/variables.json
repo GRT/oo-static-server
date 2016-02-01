@@ -1,0 +1,125 @@
+[{
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": "{ \u201cSITEOPS RUM\u201d:\u201dhttp://rum.corplabs.com/dashboard#SITEOPS-WMT.US.all\u201d,\u201dNetscaler Connections\u201d:\u201dhttp://dal-mon4.prod.corp.com/#/ProjectConnections?start=1h-ago\u201d,\u201d1OPS Kibana\u201d:\u201dhttp://reports.oneops.prod.corp.com/#/dashboard/temp/nm61amldTkajkDikWOudKQ\u201d }"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Globalvar",
+    "ciGoid": "12261493-1548-37567160",
+    "ciId": 37567160,
+    "ciName": "monitorLinks",
+    "ciState": null,
+    "comments": "",
+    "created": 1417799033276,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": "oo::chef-11.4.0",
+    "isActiveInRelease": true,
+    "lastAppliedRfcId": null,
+    "nsPath": "/CorpOrg/landline/prod/manifest",
+    "releaseId": 70867416,
+    "releaseType": null,
+    "rfcAction": "add",
+    "rfcCreated": 1417799033276,
+    "rfcCreatedBy": "ohall",
+    "rfcId": 70867697,
+    "rfcUpdated": 1417799033276,
+    "rfcUpdatedBy": null,
+    "updated": 1417799033276,
+    "updatedBy": null
+}, {
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": "{ \"Apache\":\"apache_logs\", \"Logmon\":\"logmon_logs\" }"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Globalvar",
+    "ciGoid": "12261493-1548-37567153",
+    "ciId": 37567153,
+    "ciName": "splunkIndexes",
+    "ciState": null,
+    "comments": "",
+    "created": 1417797848479,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": "oo::chef-11.4.0",
+    "isActiveInRelease": true,
+    "lastAppliedRfcId": null,
+    "nsPath": "/CorpOrg/landline/prod/manifest",
+    "releaseId": 70867416,
+    "releaseType": null,
+    "rfcAction": "add",
+    "rfcCreated": 1417797848479,
+    "rfcCreatedBy": "ohall",
+    "rfcId": 70867477,
+    "rfcUpdated": 1417797848479,
+    "rfcUpdatedBy": null,
+    "updated": 1417797848479,
+    "updatedBy": null
+}, {
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": "{\"DAL\":\"http://11.11.111.111:8000/\",\"DFW\":\"http://11.11.111.111:8000/\"}"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Globalvar",
+    "ciGoid": "12261493-1548-37567155",
+    "ciId": 37567155,
+    "ciName": "splunkRoots",
+    "ciState": null,
+    "comments": "",
+    "created": 1417797848479,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": "oo::chef-11.4.0",
+    "isActiveInRelease": true,
+    "lastAppliedRfcId": null,
+    "nsPath": "/CorpOrg/landline/prod/manifest",
+    "releaseId": 70867416,
+    "releaseType": null,
+    "rfcAction": "add",
+    "rfcCreated": 1417797848479,
+    "rfcCreatedBy": "ohall",
+    "rfcId": 70867480,
+    "rfcUpdated": 1417797848479,
+    "rfcUpdatedBy": null,
+    "updated": 1417797848479,
+    "updatedBy": null
+}, {
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": "www.corp.com"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Globalvar",
+    "ciGoid": "12261493-1548-37567155",
+    "ciId": 37567155,
+    "ciName": "userHostname",
+    "ciState": null,
+    "comments": "",
+    "created": 1417797848479,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": "oo::chef-11.4.0",
+    "isActiveInRelease": true,
+    "lastAppliedRfcId": null,
+    "nsPath": "/CorpOrg/landline/prod/manifest",
+    "releaseId": 70867416,
+    "releaseType": null,
+    "rfcAction": "add",
+    "rfcCreated": 1417797848479,
+    "rfcCreatedBy": "ohall",
+    "rfcId": 70867480,
+    "rfcUpdated": 1417797848479,
+    "rfcUpdatedBy": null,
+    "updated": 1417797848479,
+    "updatedBy": null
+}]

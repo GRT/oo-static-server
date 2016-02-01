@@ -1,0 +1,317 @@
+[{
+    "ciAttrProps": {
+        "owner": {
+            "value": "manifest"
+        }
+    },
+    "ciAttributes": {
+        "value": "3.1.4"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Localvar",
+    "ciGoid": "26759590-1743-26759744",
+    "ciId": 26759744,
+    "ciName": "appVersion",
+    "ciState": "default",
+    "comments": "",
+    "created": 1409093025207,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": null,
+    "isActiveInRelease": false,
+    "lastAppliedRfcId": 61574591,
+    "nsPath": "/CorpOrg/landline/prod/manifest/app-platform/1",
+    "releaseId": 0,
+    "releaseType": null,
+    "rfcAction": null,
+    "rfcCreated": null,
+    "rfcCreatedBy": null,
+    "rfcId": 0,
+    "rfcUpdated": null,
+    "rfcUpdatedBy": null,
+    "updated": 1415141595546,
+    "updatedBy": "gshanka"
+}, {
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": "Deployment# 467"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Localvar",
+    "ciGoid": "26759590-1743-26759766",
+    "ciId": 26759766,
+    "ciName": "comment",
+    "ciState": "default",
+    "comments": "",
+    "created": 1409093025207,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": null,
+    "isActiveInRelease": false,
+    "lastAppliedRfcId": 44281243,
+    "nsPath": "/CorpOrg/landline/prod/manifest/app-platform/1",
+    "releaseId": 0,
+    "releaseType": null,
+    "rfcAction": null,
+    "rfcCreated": null,
+    "rfcCreatedBy": null,
+    "rfcId": 0,
+    "rfcUpdated": null,
+    "rfcUpdatedBy": null,
+    "updated": 1409093025207,
+    "updatedBy": null
+}, {
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": "test"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Localvar",
+    "ciGoid": "26759590-1743-26759775",
+    "ciId": 26759775,
+    "ciName": "deployContext",
+    "ciState": "default",
+    "comments": "",
+    "created": 1409093025207,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": null,
+    "isActiveInRelease": false,
+    "lastAppliedRfcId": 44281254,
+    "nsPath": "/CorpOrg/landline/prod/manifest/app-platform/1",
+    "releaseId": 0,
+    "releaseType": null,
+    "rfcAction": null,
+    "rfcCreated": null,
+    "rfcCreatedBy": null,
+    "rfcId": 0,
+    "rfcUpdated": null,
+    "rfcUpdatedBy": null,
+    "updated": 1409093025207,
+    "updatedBy": null
+}, {
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": "Project"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Localvar",
+    "ciGoid": "26759590-1743-26759753",
+    "ciId": 26759753,
+    "ciName": "domain",
+    "ciState": "default",
+    "comments": "",
+    "created": 1409093025207,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": null,
+    "isActiveInRelease": false,
+    "lastAppliedRfcId": 44281197,
+    "nsPath": "/CorpOrg/landline/prod/manifest/app-platform/1",
+    "releaseId": 0,
+    "releaseType": null,
+    "rfcAction": null,
+    "rfcCreated": null,
+    "rfcCreatedBy": null,
+    "rfcId": 0,
+    "rfcUpdated": null,
+    "rfcUpdatedBy": null,
+    "updated": 1409093025207,
+    "updatedBy": null
+}, {
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": "war"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Localvar",
+    "ciGoid": "26759590-1743-26759772",
+    "ciId": 26759772,
+    "ciName": "extension",
+    "ciState": "default",
+    "comments": "",
+    "created": 1409093025207,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": null,
+    "isActiveInRelease": false,
+    "lastAppliedRfcId": 44281250,
+    "nsPath": "/CorpOrg/landline/prod/manifest/app-platform/1",
+    "releaseId": 0,
+    "releaseType": null,
+    "rfcAction": null,
+    "rfcCreated": null,
+    "rfcCreatedBy": null,
+    "rfcId": 0,
+    "rfcUpdated": null,
+    "rfcUpdatedBy": null,
+    "updated": 1409093025207,
+    "updatedBy": null
+}, {
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": "com.corp.titanGradle"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Localvar",
+    "ciGoid": "26759590-1743-26759759",
+    "ciId": 26759759,
+    "ciName": "groupId",
+    "ciState": "default",
+    "comments": "",
+    "created": 1409093025207,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": null,
+    "isActiveInRelease": false,
+    "lastAppliedRfcId": 44281215,
+    "nsPath": "/CorpOrg/landline/prod/manifest/app-platform/1",
+    "releaseId": 0,
+    "releaseType": null,
+    "rfcAction": null,
+    "rfcCreated": null,
+    "rfcCreatedBy": null,
+    "rfcId": 0,
+    "rfcUpdated": null,
+    "rfcUpdatedBy": null,
+    "updated": 1409093025207,
+    "updatedBy": null
+}, {
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": "titan-test"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Localvar",
+    "ciGoid": "26759590-1743-26759740",
+    "ciId": 26759740,
+    "ciName": "name",
+    "ciState": "default",
+    "comments": "",
+    "created": 1409093025207,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": null,
+    "isActiveInRelease": false,
+    "lastAppliedRfcId": 44281158,
+    "nsPath": "/CorpOrg/landline/prod/manifest/app-platform/1",
+    "releaseId": 0,
+    "releaseType": null,
+    "rfcAction": null,
+    "rfcCreated": null,
+    "rfcCreatedBy": null,
+    "rfcId": 0,
+    "rfcUpdated": null,
+    "rfcUpdatedBy": null,
+    "updated": 1409093025207,
+    "updatedBy": null
+}, {
+    "ciAttrProps": {
+        "owner": {
+            "value": "manifest"
+        }
+    },
+    "ciAttributes": {
+        "value": "pangaea_releases"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Localvar",
+    "ciGoid": "26759590-1743-26759746",
+    "ciId": 26759746,
+    "ciName": "repository",
+    "ciState": "default",
+    "comments": "",
+    "created": 1409093025207,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": null,
+    "isActiveInRelease": false,
+    "lastAppliedRfcId": 56462892,
+    "nsPath": "/CorpOrg/landline/prod/manifest/app-platform/1",
+    "releaseId": 0,
+    "releaseType": null,
+    "rfcAction": null,
+    "rfcCreated": null,
+    "rfcCreatedBy": null,
+    "rfcId": 0,
+    "rfcUpdated": null,
+    "rfcUpdatedBy": null,
+    "updated": 1413862934180,
+    "updatedBy": "ohall"
+}, {
+    "ciAttrProps": {
+        "owner": {
+            "value": "manifest"
+        }
+    },
+    "ciAttributes": {
+        "value": "prod"
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Localvar",
+    "ciGoid": "26759590-1743-26759736",
+    "ciId": 26759736,
+    "ciName": "runOnEnv",
+    "ciState": "default",
+    "comments": "",
+    "created": 1409093025207,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": null,
+    "isActiveInRelease": false,
+    "lastAppliedRfcId": 60354582,
+    "nsPath": "/CorpOrg/landline/prod/manifest/app-platform/1",
+    "releaseId": 0,
+    "releaseType": null,
+    "rfcAction": null,
+    "rfcCreated": null,
+    "rfcCreatedBy": null,
+    "rfcId": 0,
+    "rfcUpdated": null,
+    "rfcUpdatedBy": null,
+    "updated": 1414856311441,
+    "updatedBy": "ohall"
+}, {
+    "ciAttrProps": {
+        "owner": {}
+    },
+    "ciAttributes": {
+        "value": ""
+    },
+    "ciBaseAttributes": {},
+    "ciClassName": "manifest.Localvar",
+    "ciGoid": "26759590-1743-26759750",
+    "ciId": 26759750,
+    "ciName": "shaVersion",
+    "ciState": "default",
+    "comments": "",
+    "created": 1409093025207,
+    "createdBy": "ohall",
+    "execOrder": 0,
+    "impl": null,
+    "isActiveInRelease": false,
+    "lastAppliedRfcId": 44281190,
+    "nsPath": "/CorpOrg/landline/prod/manifest/app-platform/1",
+    "releaseId": 0,
+    "releaseType": null,
+    "rfcAction": null,
+    "rfcCreated": null,
+    "rfcCreatedBy": null,
+    "rfcId": 0,
+    "rfcUpdated": null,
+    "rfcUpdatedBy": null,
+    "updated": 1409093025207,
+    "updatedBy": null
+}]

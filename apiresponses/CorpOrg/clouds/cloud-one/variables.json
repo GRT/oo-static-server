@@ -1,0 +1,65 @@
+[
+    {
+        "impl":"oo::chef-11.4.0",
+        "ciId":11031829,
+        "ciGoid":"11031825-1218-11031829",
+        "lastAppliedRfcId":0,
+        "nsPath":"/CorpOrg/_clouds/cloud-one",
+        "ciClassName":"periwinkle.Cloudvar",
+        "updated":1401481992117,
+        "ciName":"nexus",
+        "ciState":"default",
+        "ciAttributes":{
+            "value":"https://nexus.prod.corp.com"
+        },
+        "createdBy":"klohia",
+        "comments":"",
+        "attrProps":{
+
+        },
+        "updatedBy":null,
+        "created":1398385051810
+    },
+    {
+        "impl":"oo::chef-11.4.0",
+        "ciId":11031826,
+        "ciGoid":"11031825-1218-11031826",
+        "lastAppliedRfcId":0,
+        "nsPath":"/CorpOrg/_clouds/cloud-one",
+        "ciClassName":"periwinkle.Cloudvar",
+        "updated":1398385043464,
+        "ciName":"satproxy",
+        "ciState":"default",
+        "ciAttributes":{
+            "value":"http://dal-satproxy.prod.corp.com"
+        },
+        "createdBy":"klohia",
+        "comments":"",
+        "attrProps":{
+
+        },
+        "updatedBy":null,
+        "created":1398385043464
+    },
+    {
+        "impl":"oo::chef-11.4.0",
+        "ciId":31277627,
+        "ciGoid":"11031825-1218-31277627",
+        "lastAppliedRfcId":0,
+        "nsPath":"/CorpOrg/_clouds/cloud-one",
+        "ciClassName":"periwinkle.Cloudvar",
+        "updated":1413988352501,
+        "ciName":"splunkHost",
+        "ciState":"default",
+        "ciAttributes":{
+            "value":"11.11.111.111"
+        },
+        "createdBy":"ohall",
+        "comments":"",
+        "attrProps":{
+
+        },
+        "updatedBy":null,
+        "created":1413227629716
+    }
+]
