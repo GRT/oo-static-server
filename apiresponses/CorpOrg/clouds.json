@@ -47,7 +47,7 @@
   },
   {
     "ciId": 4983792,
-    "createdBy": "akaush1",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "prod-dal1",
     "ciAttributes": {
@@ -70,7 +70,7 @@
   },
   {
     "ciId": 5482454,
-    "createdBy": "akaush1",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "prod-dal2",
     "ciAttributes": {
@@ -93,7 +93,7 @@
   },
   {
     "ciId": 11031821,
-    "createdBy": "klohia",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "cloud-one",
     "ciAttributes": {
@@ -116,7 +116,7 @@
   },
   {
     "ciId": 11031939,
-    "createdBy": "klohia",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "prod-dal4",
     "ciAttributes": {
@@ -139,7 +139,7 @@
   },
   {
     "ciId": 4983975,
-    "createdBy": "akaush1",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "prod-dfw1",
     "ciAttributes": {
@@ -162,7 +162,7 @@
   },
   {
     "ciId": 5482506,
-    "createdBy": "akaush1",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "prod-dfw2",
     "ciAttributes": {
@@ -185,7 +185,7 @@
   },
   {
     "ciId": 11030446,
-    "createdBy": "klohia",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "prod-dfw3",
     "ciAttributes": {
@@ -208,7 +208,7 @@
   },
   {
     "ciId": 11031075,
-    "createdBy": "klohia",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "prod-dfw4",
     "ciAttributes": {
@@ -231,7 +231,7 @@
   },
   {
     "ciId": 12614488,
-    "createdBy": "klohia",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "qa-cdc1az1",
     "ciAttributes": {
@@ -254,7 +254,7 @@
   },
   {
     "ciId": 12614637,
-    "createdBy": "klohia",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "qa-cdc1az2",
     "ciAttributes": {
@@ -277,7 +277,7 @@
   },
   {
     "ciId": 375468,
-    "createdBy": "jpise",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "qa-ctf3a",
     "ciAttributes": {
@@ -300,7 +300,7 @@
   },
   {
     "ciId": 383207,
-    "createdBy": "jpise",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "qa-ctf3b",
     "ciAttributes": {
@@ -323,7 +323,7 @@
   },
   {
     "ciId": 22229976,
-    "createdBy": "sshar43",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "stg-dal1",
     "ciAttributes": {
@@ -346,7 +346,7 @@
   },
   {
     "ciId": 22229919,
-    "createdBy": "sshar43",
+    "createdBy": "ohall",
     "nsPath": "\/CorpOrg\/_clouds",
     "ciName": "stg-dfw1",
     "ciAttributes": {
