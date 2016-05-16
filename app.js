@@ -38,6 +38,9 @@ server.pack.register({plugin:Swagger, options:{}}, function() {
 });
 
 var routes = [
+  { path: '/account/organizations.json',
+    config:{}
+  },
   { path: '/{organization}/assemblies/{assembly}/transition/environments/{environment}/platforms/{platform}/variables.json',
     config: {
       validate: {
@@ -46,8 +49,8 @@ var routes = [
           environment: environmentValidator,
           platform: platformValidator,
           organization: organizationValidator
-        }}
-
+        }
+      }
     }
   },
   { path: '/{organization}/assemblies/{assembly}/transition/environments/{environment}/variables.json',
@@ -57,8 +60,8 @@ var routes = [
           assembly: assemblyValidator,
           environment: environmentValidator,
           organization: organizationValidator
-        }}
-
+        }
+      }
     }
   },
   { path: '/{organization}/assemblies/{assembly}/transition/environments/{environment}/releases.json',
@@ -68,8 +71,8 @@ var routes = [
           assembly: assemblyValidator,
           environment: environmentValidator,
           organization: organizationValidator
-        }}
-
+        }
+      }
     }
   },
   { path: '/{organization}/assemblies/{assembly}/operations/environments/{environment}/platforms.json',
@@ -79,8 +82,8 @@ var routes = [
           assembly: assemblyValidator,
           environment: environmentValidator,
           organization: organizationValidator
-        }}
-
+        }
+      }
     }
   },
   { path: '/{organization}/assemblies/{assembly}/transition/environments/{environment}/platforms/{platform}.json',
@@ -91,8 +94,8 @@ var routes = [
           environment: environmentValidator,
           platform: platformValidator,
           organization: organizationValidator
-        }}
-
+        }
+      }
     }
   },
   { path: '/{organization}/assemblies/{assembly}/transition/environments/{environment}/platforms/{platform}/edit.json',
@@ -113,8 +116,8 @@ var routes = [
         params: {
           assembly: assemblyValidator,
           organization: organizationValidator
-        }}
-
+        }
+      }
     }
   },
   { path: '/{organization}/assemblies/{assembly}/transition/environments/{environment}.json',
@@ -124,8 +127,8 @@ var routes = [
           environment: environmentValidator,
           assembly: assemblyValidator,
           organization: organizationValidator
-        }}
-
+        }
+      }
     }
   },
   { path: '/{organization}/assemblies.json',
@@ -143,8 +146,8 @@ var routes = [
         params: {
           organization: organizationValidator,
           cloud: cloudValidator
-        }}
-
+        }
+      }
     }
   },
   { path: '/{organization}/clouds/{cloud}.json',
@@ -153,8 +156,8 @@ var routes = [
         params: {
           organization: organizationValidator,
           cloud: cloudValidator
-        }}
-
+        }
+      }
     }
   }
 ];
@@ -164,6 +167,7 @@ _(routes).each(function (route) {
   route.config.auth = false;
   route.method      = 'GET';
   route.handler     = function (request, reply) {
+    console.log( request.path );
     fs.readFile (jsonDir + request.path, {encoding:'utf8'}, function(err, data) {
       if(err) {
         var error = Hapi.error.badRequest('file not available');

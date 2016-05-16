@@ -1,0 +1,69 @@
+[  
+   {
+      "ciName":"periwinkle",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{  
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{  
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"salamander",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"landline",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   }
+
+]

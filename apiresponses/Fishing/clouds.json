@@ -1,0 +1,370 @@
+[
+  {
+    "ciId": 341548,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "dev-ctf3a",
+    "ciAttributes": {
+      "auth": "",
+      "description": "",
+      "location": "\/public\/corplabs\/clouds\/openstack-ctf3"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1378747396993,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-341548",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404318360630,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 341770,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "dev-ctf3b",
+    "ciAttributes": {
+      "auth": "",
+      "description": "",
+      "location": "\/public\/corplabs\/clouds\/openstack-ctf3"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1378751193875,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-341770",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404318361042,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 4983792,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "prod-dal1",
+    "ciAttributes": {
+      "auth": "",
+      "description": "",
+      "location": "\/public\/corplabs\/clouds\/openstack-dal"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1391822686447,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-4983792",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404367908285,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 5482454,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "prod-dal2",
+    "ciAttributes": {
+      "auth": "",
+      "description": "prod-dal2",
+      "location": "\/public\/corplabs\/clouds\/openstack-dal"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1392336208025,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-5482454",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404366170824,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 11031821,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "cloud-one",
+    "ciAttributes": {
+      "auth": "",
+      "description": "",
+      "location": "\/public\/corplabs\/clouds\/openstack-dal3"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1398385033043,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-11031821",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404318398140,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 11031939,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "prod-dal4",
+    "ciAttributes": {
+      "auth": "",
+      "description": "",
+      "location": "\/public\/corplabs\/clouds\/openstack-dal4"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1398385274776,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-11031939",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404318398537,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 4983975,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "prod-dfw1",
+    "ciAttributes": {
+      "auth": "",
+      "description": "",
+      "location": "\/public\/corplabs\/clouds\/openstack-dal"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1391823273684,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-4983975",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404367846142,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 5482506,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "prod-dfw2",
+    "ciAttributes": {
+      "auth": "",
+      "description": "",
+      "location": "\/public\/corplabs\/clouds\/openstack-dal"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1392336608778,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-5482506",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404366216322,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 11030446,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "prod-dfw3",
+    "ciAttributes": {
+      "auth": "",
+      "description": "",
+      "location": "\/public\/corplabs\/clouds\/openstack-dfw3"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1398384240392,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-11030446",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404318396600,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 11031075,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "prod-dfw4",
+    "ciAttributes": {
+      "auth": "",
+      "description": "",
+      "location": "\/public\/corplabs\/clouds\/openstack-dfw4"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1398384830653,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-11031075",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404318397378,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 12614488,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "qa-cdc1az1",
+    "ciAttributes": {
+      "auth": null,
+      "description": "qa-cdc1az1 openstack-cdc",
+      "location": "\/public\/corplabs\/clouds\/openstack-cdc1"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1399668295453,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-12614488",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404318413282,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 12614637,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "qa-cdc1az2",
+    "ciAttributes": {
+      "auth": null,
+      "description": "qa-cdc1az2 openstack-cdc",
+      "location": "\/public\/corplabs\/clouds\/openstack-cdc1"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1399668385932,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-12614637",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404318413678,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 375468,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "qa-ctf3a",
+    "ciAttributes": {
+      "auth": "",
+      "description": "CTF3a OpenStack+Netscaler+Infoblox",
+      "location": "\/public\/corplabs\/clouds\/openstack-ctf3"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1378793166667,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-375468",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404318352946,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 383207,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "qa-ctf3b",
+    "ciAttributes": {
+      "auth": "",
+      "description": "CTF3b OpenStack+Netscaler+Infoblox",
+      "location": "\/public\/corplabs\/clouds\/openstack-ctf3"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1378794562685,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-383207",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1404318359026,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 22229976,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "stg-dal1",
+    "ciAttributes": {
+      "auth": "",
+      "description": "stg-dal1 openstack-dalstg1",
+      "location": "\/public\/corplabs\/clouds\/openstack-dalstg1"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1405930516196,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-22229976",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1405930516196,
+    "comments": "",
+    "ciState": "default"
+  },
+  {
+    "ciId": 22229919,
+    "createdBy": "ohall",
+    "nsPath": "\/CorpOrg\/_clouds",
+    "ciName": "stg-dfw1",
+    "ciAttributes": {
+      "auth": "",
+      "description": "stg-dfw1 openstack-dfwstg1",
+      "location": "\/public\/corplabs\/clouds\/openstack-dfwstg1"
+    },
+    "impl": "oo::chef-11.4.0",
+    "created": 1405930127355,
+    "attrProps": {
+
+    },
+    "ciGoid": "341547-1209-22229919",
+    "ciClassName": "periwinkle.Cloud",
+    "lastAppliedRfcId": 0,
+    "updatedBy": null,
+    "updated": 1405930127355,
+    "comments": "",
+    "ciState": "default"
+  }
+]

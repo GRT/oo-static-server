@@ -1,0 +1,23 @@
+{
+    "ciGoid":"341547-1209-11031821",
+    "updated":1404318398140,
+    "lastAppliedRfcId":0,
+    "impl":"oo::chef-11.4.0",
+    "comments":"",
+    "updatedBy":null,
+    "ciAttributes":{
+        "description":"",
+        "location":"/public/corplabs/clouds/openstack-dal3",
+        "auth":""
+    },
+    "ciState":"default",
+    "ciId":11031821,
+    "attrProps":{
+
+    },
+    "createdBy":"ohall",
+    "created":1398385033043,
+    "ciName":"cloud-one",
+    "ciClassName":"periwinkle.Cloud",
+    "nsPath":"/CorpOrg/_clouds"
+}

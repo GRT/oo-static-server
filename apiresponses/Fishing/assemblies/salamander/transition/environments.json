@@ -1,0 +1,38 @@
+[
+  {
+    "attrProps": {
+
+    },
+    "ciAttributes": {
+      "adminstatus": "active",
+      "approve": "true",
+      "autorepair": "true",
+      "autoreplace": "true",
+      "autoscale": "false",
+      "availability": "redundant",
+      "codpmt": "false",
+      "custom_monitor": "false",
+      "debug": "false",
+      "description": "Production A environment for Project Production",
+      "dpmtdelay": "60",
+      "global_dns": "true",
+      "logging": "false",
+      "monitoring": "true",
+      "profile": "PROD",
+      "subdomain": "prod.landline"
+    },
+    "ciClassName": "manifest.Environment",
+    "ciGoid": "12258816-1474-12261472",
+    "ciId": 12261472,
+    "ciName": "prod",
+    "ciState": "default",
+    "comments": "SUCCESS: Generation time taken: 691 seconds.",
+    "created": 1399406326798,
+    "createdBy": "ohall",
+    "impl": "oo::chef-11.4.0",
+    "lastAppliedRfcId": 0,
+    "nsPath": "\/CorpOrg\/salamander",
+    "updated": 1418370680951,
+    "updatedBy": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 123,
+    "name": "CorpOrg",
+    "created_at": "2015-02-24T18:32:45.993Z",
+    "updated_at": "2015-02-24T18:35:01.456Z",
+    "cms_id": 34534543,
+    "assemblies": true,
+    "catalogs": true,
+    "services": false,
+    "announcement": "",
+    "full_name": null
+  },
+  {
+    "id": 345,
+    "name": "GRTReact",
+    "created_at": "2015-05-22T15:27:22.927Z",
+    "updated_at": "2015-05-22T15:27:22.927Z",
+    "cms_id": 3453534,
+    "assemblies": true,
+    "catalogs": false,
+    "services": false,
+    "announcement": null,
+    "full_name": null
+  },
+  {
+    "id": 456,
+    "name": "Fishing",
+    "created_at": "2016-01-27T18:48:36.798Z",
+    "updated_at": "2016-02-10T18:23:02.509Z",
+    "cms_id": 3454353,
+    "assemblies": true,
+    "catalogs": false,
+    "services": false,
+    "announcement": "",
+    "full_name": null
+  },
+  {
+    "id": 789,
+    "name": "IceWater",
+    "created_at": "2015-09-01T19:40:38.691Z",
+    "updated_at": "2015-09-01T19:41:39.619Z",
+    "cms_id": 34543534,
+    "assemblies": true,
+    "catalogs": false,
+    "services": false,
+    "announcement": "",
+    "full_name": null
+  },
+  {
+    "id": 98,
+    "name": "StraightFire",
+    "created_at": "2013-09-05T00:24:01.535Z",
+    "updated_at": "2016-05-13T12:04:33.609Z",
+    "cms_id": 3454543,
+    "assemblies": true,
+    "catalogs": true,
+    "services": true,
+    "announcement": null,
+    "full_name": null
+  }
+]
