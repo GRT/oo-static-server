@@ -10,7 +10,7 @@ var Joi       = require('joi');              // schema validation
 var chalk     = require('chalk');
 
 // create a server on port 4000.
-var server = Hapi.createServer('0.0.0.0', 4000, {cors:true});
+var server = Hapi.createServer('0.0.0.0', 80, {cors:true});
 
 var jsonDir = './apiresponses';
 
