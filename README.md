@@ -6,7 +6,7 @@ oo-static-server
  $ git clone git@github.com:GRT/oo-static-server.git
  $ cd oo-static-server
  $ npm i
- $ npm run serve
+ $ npm start
  ```
 ##### Once _oo-static-server_ is running, you can view automatically generated API Docs at:
 [http://localhost:4000/documentation](http://localhost:4000/documentation)
