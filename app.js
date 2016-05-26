@@ -9,7 +9,7 @@ var Swagger   = require('hapi-swagger');      // generate API documentation
 var Joi       = require('joi');              // schema validation
 var chalk     = require('chalk');
 
-// create a server on port 4000.
+// create a server on port 80 for openshift.
 var server = Hapi.createServer('0.0.0.0', 80, {cors:true});
 
 var jsonDir = './apiresponses';
