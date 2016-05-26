@@ -1,13 +1,13 @@
 [  
    {
-      "ciName":"periwinkle",
+      "ciName":"accountable",
       "updatedBy":"ohall",
       "createdBy":null,
       "ciState":"default",
       "lastAppliedRfcId":0,
       "impl":"oo::chef-11.4.0",
       "ciGoid":"243841-1119-12258813",
-      "ciClassName":"periwinkle.Assembly",
+      "ciClassName":"accountable.Assembly",
       "ciAttributes":{  
          "owner":"ohall@email.corp.com",
          "description":"Production Assembly for Project"
@@ -22,14 +22,14 @@
       "created":1399405707690
    },
    {
-      "ciName":"salamander",
+      "ciName":"finalist",
       "updatedBy":"ohall",
       "createdBy":null,
       "ciState":"default",
       "lastAppliedRfcId":0,
       "impl":"oo::chef-11.4.0",
       "ciGoid":"243841-1119-12258813",
-      "ciClassName":"periwinkle.Assembly",
+      "ciClassName":"finalist.Assembly",
       "ciAttributes":{
          "owner":"ohall@email.corp.com",
          "description":"Production Assembly for Project"
@@ -44,14 +44,14 @@
       "created":1399405707690
    },
    {
-      "ciName":"landline",
+      "ciName":"victory",
       "updatedBy":"ohall",
       "createdBy":null,
       "ciState":"default",
       "lastAppliedRfcId":0,
       "impl":"oo::chef-11.4.0",
       "ciGoid":"243841-1119-12258813",
-      "ciClassName":"periwinkle.Assembly",
+      "ciClassName":"victory.Assembly",
       "ciAttributes":{
          "owner":"ohall@email.corp.com",
          "description":"Production Assembly for Project"
