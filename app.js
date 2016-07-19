@@ -75,30 +75,7 @@ var routes = [
       }
     }
   },
-  { path: '/{organization}/assemblies/{assembly}/operations/environments/{environment}/platforms.json',
-    config: {
-      validate: {
-        params: {
-          assembly: assemblyValidator,
-          environment: environmentValidator,
-          organization: organizationValidator
-        }
-      }
-    }
-  },
   { path: '/{organization}/assemblies/{assembly}/transition/environments/{environment}/platforms/{platform}.json',
-    config: {
-      validate: {
-        params: {
-          assembly: assemblyValidator,
-          environment: environmentValidator,
-          platform: platformValidator,
-          organization: organizationValidator
-        }
-      }
-    }
-  },
-  { path: '/{organization}/assemblies/{assembly}/transition/environments/{environment}/platforms/{platform}/edit.json',
     config: {
       validate: {
         params: {
@@ -124,6 +101,30 @@ var routes = [
     config: {
       validate: {
         params: {
+          environment: environmentValidator,
+          assembly: assemblyValidator,
+          organization: organizationValidator
+        }
+      }
+    }
+  },
+  { path: '/{organization}/assemblies/{assembly}/operations/environments/{environment}/platforms.json',
+    config: {
+      validate: {
+        params: {
+          assembly: assemblyValidator,
+          environment: environmentValidator,
+          organization: organizationValidator
+        }
+      }
+    }
+  },
+  { path: '/{organization}/assemblies/{assembly}/operations/environments/{environment}/' +
+  'platforms/{platform}/components/compute/instances.json',
+    config: {
+      validate: {
+        params: {
+          platform: platformValidator,
           environment: environmentValidator,
           assembly: assemblyValidator,
           organization: organizationValidator
