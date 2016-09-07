@@ -103,6 +103,19 @@ module.exports = [
       }
     }
   },
+  { path: '/{organization}/assemblies/{assembly}/operations/environments/{environment}/' +
+  'platforms/{platform}/components/fqdn/instances.json',
+    config: {
+      validate: {
+        params: {
+          platform: platformValidator,
+          environment: environmentValidator,
+          assembly: assemblyValidator,
+          organization: organizationValidator
+        }
+      }
+    }
+  },
   { path: '/{organization}/assemblies.json',
     config: {
       validate: {
