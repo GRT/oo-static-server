@@ -64,6 +64,445 @@
 
       },
       "created":1399405707690
-   }
+   },
+   {
+      "ciName":"poleyn",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
 
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"unanalytical",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"endemic",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"damnableness",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"sublimed",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"denotativeness",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"tendinous",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"newshound",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"congratulations",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"kreisler",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"unepilogued",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"delimitated",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"intracranial",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"flashier",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"salutatoria",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"nordau",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"clearheadedness",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"leukemic",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"quoits",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   },
+   {
+      "ciName":"triphyllous",
+      "updatedBy":"ohall",
+      "createdBy":null,
+      "ciState":"default",
+      "lastAppliedRfcId":0,
+      "impl":"oo::chef-11.4.0",
+      "ciGoid":"243841-1119-12258813",
+      "ciClassName":"periwinkle.Assembly",
+      "ciAttributes":{
+         "owner":"ohall@email.corp.com",
+         "description":"Production Assembly for Project"
+      },
+      "comments":null,
+      "ciId":12258813,
+      "updated":1412697143653,
+      "nsPath":"/CorpOrg",
+      "attrProps":{
+
+      },
+      "created":1399405707690
+   }
 ]

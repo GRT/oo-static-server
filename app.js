@@ -7,7 +7,7 @@ const chalk = require('chalk');
 
 const server = Hapi.createServer('0.0.0.0', 4000, {cors:true});
 const jsonDir = './apiresponses';
-const defaultRouteDelay = 0;
+const defaultRouteDelay = 4500;
 
 // register the plugins and then start the server
 server.pack.register( { plugin : Swagger, options : {} }, () => {
