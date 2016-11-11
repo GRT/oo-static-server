@@ -29,7 +29,7 @@ _(require('./routes')).each( route => {
       if(err) {
         reply(Hapi.error.badRequest('file not available'));
       } else {
-        setTimeout(() => { reply(JSON.parse(data)); }, defaultRouteDelay);
+        setTimeout(() => { reply({data:JSON.parse(data)}); }, defaultRouteDelay);
       }
     })
   };
