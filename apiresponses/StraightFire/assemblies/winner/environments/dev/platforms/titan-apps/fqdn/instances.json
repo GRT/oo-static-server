@@ -1,0 +1,101 @@
+[
+  {
+    "ciId": 39405,
+    "ciName": "fqdn-11031939-1",
+    "ciClassName": "bom.Fqdn",
+    "impl": "oo::chef-11.4.0",
+    "nsPath": "\/CorpOrg\/landline\/landline-prod\/bom\/app-platform\/1",
+    "ciGoid": "39840098-1502-39405",
+    "comments": null,
+    "ciState": "default",
+    "lastAppliedRfcId": 122741114,
+    "createdBy": "ohall",
+    "updatedBy": "ohall:controller",
+    "created": 1435684038615,
+    "updated": 1472752193743,
+    "nsId": 39405,
+    "ciAttributes": {
+      "entries": "{\"app-platform.landline-prod.landline.CorpOrg.denver.prod.grt.com\":[\"10.64.231.35\"],\"app-platform.landline-prod.landline.CorpOrg.prod.grt.com\":[\"app-platform.landline-prod.landline.CorpOrg.glb.prod.grt.com\"],\"app-platform.landline-prod.landline.CorpOrg.dal.prod.grt.com\":[\"10.64.231.35\"]}",
+      "aliases": "[]",
+      "gslb_vnames": "{\"landline-prod-app-platform-landline-39405-gslb\":\"app-platform.landline-prod.landline.CorpOrg.glb.prod.grt.com\"}",
+      "ptr_source": "platform",
+      "full_aliases": null,
+      "distribution": "proximity",
+      "ttl": "60",
+      "ptr_enabled": "false"
+    },
+    "attrProps": {
+      
+    },
+    "opsState": "good",
+    "cloud": {
+      "ciRelationId": 34543,
+      "nsPath": "\/CorpOrg\/landline\/landline-prod\/bom\/app-platform\/1",
+      "fromCiId": 345,
+      "toCiId": 3453,
+      "relationGoid": "39405-2535-11031939",
+      "relationState": "default",
+      "relationName": "base.DeployedTo",
+      "lastAppliedRfcId": 0,
+      "comments": "{\"toCiName\":\"prod-denver\",\"fromCiName\":\"fqdn-11031939-1\",\"fromCiClass\":\"bom.Fqdn\",\"toCiClass\":\"account.Cloud\"}",
+      "createdBy": null,
+      "updatedBy": null,
+      "created": 1435684038615,
+      "updated": 1435684038615,
+      "relationAttributes": {
+        "priority": "1"
+      },
+      "fromCi": null,
+      "toCi": {
+        "ciId": 11031939,
+        "ciName": "prod-denver",
+        "ciClassName": "account.Cloud",
+        "impl": "oo::chef-11.4.0",
+        "nsPath": "\/CorpOrg\/_clouds",
+        "ciGoid": "0-1-139",
+        "comments": "",
+        "ciState": "default",
+        "lastAppliedRfcId": 0,
+        "createdBy": "ohall",
+        "updatedBy": null,
+        "created": 1398385274776,
+        "updated": 1404318398537,
+        "nsId": 341547,
+        "ciAttributes": {
+          "adminstatus": "active",
+          "auth": "",
+          "description": "",
+          "location": "\/public\/grtlabs\/clouds\/openstack-foo"
+        },
+        "attrProps": {
+          
+        }
+      }
+    },
+    "deployedTo": {
+      "ciId": 11031939,
+      "ciName": "prod-denver",
+      "ciClassName": "account.Cloud",
+      "impl": "oo::chef-11.4.0",
+      "nsPath": "\/CorpOrg\/_clouds",
+      "ciGoid": "0-1-139",
+      "comments": "",
+      "ciState": "default",
+      "lastAppliedRfcId": 0,
+      "createdBy": "ohall",
+      "updatedBy": null,
+      "created": 1398385274776,
+      "updated": 1404318398537,
+      "nsId": 341547,
+      "ciAttributes": {
+        "adminstatus": "active",
+        "auth": "",
+        "description": "",
+        "location": "\/public\/grtlabs\/clouds\/openstack-foo"
+      },
+      "attrProps": {
+        
+      }
+    }
+  }
+]

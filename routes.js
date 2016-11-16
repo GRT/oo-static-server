@@ -9,7 +9,7 @@ const platformValidator = Joi.string().required().description('the platform name
 const cloudValidator = Joi.string().required().description('the cloud name').default('cloud-one');
 
 module.exports = [
-  { path: '/account/organizations.json',
+  { path: '/organizations.json',
     config:{}
   },
   { path: '/{organization}/assemblies/{assembly}/transition/environments/{environment}/platforms/{platform}/variables.json',
@@ -58,7 +58,7 @@ module.exports = [
       }
     }
   },
-  { path: '/{organization}/assemblies/{assembly}/transition/environments.json',
+  { path: '/{organization}/assemblies/{assembly}/environments.json',
     config: {
       validate: {
         params: {
@@ -79,7 +79,7 @@ module.exports = [
       }
     }
   },
-  { path: '/{organization}/assemblies/{assembly}/operations/environments/{environment}/platforms.json',
+  { path: '/{organization}/assemblies/{assembly}/environments/{environment}/platforms.json',
     config: {
       validate: {
         params: {
@@ -90,8 +90,8 @@ module.exports = [
       }
     }
   },
-  { path: '/{organization}/assemblies/{assembly}/operations/environments/{environment}/' +
-  'platforms/{platform}/components/compute/instances.json',
+  { path: '/{organization}/assemblies/{assembly}/environments/{environment}/' +
+  'platforms/{platform}/compute/instances.json',
     config: {
       validate: {
         params: {
@@ -103,8 +103,8 @@ module.exports = [
       }
     }
   },
-  { path: '/{organization}/assemblies/{assembly}/operations/environments/{environment}/' +
-  'platforms/{platform}/components/fqdn/instances.json',
+  { path: '/{organization}/assemblies/{assembly}/environments/{environment}/' +
+  'platforms/{platform}/fqdn/instances.json',
     config: {
       validate: {
         params: {
